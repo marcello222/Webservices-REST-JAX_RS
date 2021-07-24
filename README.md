@@ -1,7 +1,7 @@
 # Webservices-REST-JAX-RS-Jersey
 
 
- Usando Interface uniforme como um padrão que faz com que todas as aplicações, todos os programas utilizando essa API, tenham em comum essas características, todas elas sabem entender o que uma requisição HTTP está fazendo, e Serialização via XStream.
+ Utilizando Interface uniforme como um padrão que faz com que todas as aplicações, todos os programas utilizando essa API, tenham em comum essas características, todas elas sabem entender o que uma requisição HTTP está fazendo, e utilizando a Serialização via XStream.
 
 
 
